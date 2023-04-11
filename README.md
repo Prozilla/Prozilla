@@ -32,6 +32,10 @@ I'm a passionate teenage software developer and 3D artist. Experienced in applic
 
 <br>
 
+---
+
+<br>
+
 ### Statistics
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=prozilla&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="General stats"/>
