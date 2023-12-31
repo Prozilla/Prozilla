@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sieben De Beule<br>but you can call me Prozilla.
 
-I'm a passionate teenage software developer and 3D artist. Experienced in application (especially games) and web development as well as web design.
+I'm a passionate software developer and 3D artist. Experienced in application (especially games) and web development as well as web design.
 
 <br>
 
@@ -8,7 +8,7 @@ I'm a passionate teenage software developer and 3D artist. Experienced in applic
 
 - ✨ My portfolio is available at [prozilla.dev](https://prozilla.dev/)
 
-- 📫 You can contact me at **business@prozilla.dev**
+- 📫 You can contact me at business@prozilla.dev
 
 - ☕ You can support my work at [ko-fi.com/prozilla](https://ko-fi.com/prozilla)
 
