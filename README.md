@@ -4,7 +4,7 @@ I'm a passionate software developer and 3D artist. Experienced in application (e
 
 <br>
 
-- 🖥 I’m currently working on many projects including [Crumbling City](https://store.steampowered.com/app/1520290/Crumbling_City/)
+- 🖥 I’m currently working on a few projects including my VR game called [Crumbling City](https://store.steampowered.com/app/1520290/Crumbling_City/)
 
 - ✨ My portfolio is available at [prozilla.dev](https://prozilla.dev/)
 
