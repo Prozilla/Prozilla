@@ -20,11 +20,9 @@ I'm a passionate software developer and 3D artist. Experienced in application (e
 </p>
 
 <br>
-<hr>
-<br>
 
 ### Overview
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=prozilla&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="General stats"/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prozilla&theme=github_dark&show_icons=true&hide_border=true&layout=compact" alt="Top languages"/>
+  <img align="left" src="https://prozilla-github-readme-stats.vercel.app/api?username=Prozilla&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="General stats"/>
+  <img align="left" src="https://prozilla-github-readme-stats.vercel.app/api/top-langs/?username=Prozilla&theme=github_dark&show_icons=true&hide_border=true&layout=compact" alt="Top languages"/>
 </p>
